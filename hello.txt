@@ -1,1 +1,6 @@
 new file created
+
+
+added new message to the text file
+last i checked the file was not there on the server
+lets server
